@@ -1,7 +1,7 @@
-#Filebeat
-##Ansible role to install filebeat on debian
+# Filebeat
+## Ansible role to install filebeat on debian
 
-###Usage
+### Usage
     - hosts: all
       roles:
         - { role: filebeat }
